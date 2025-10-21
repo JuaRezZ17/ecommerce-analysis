@@ -8,7 +8,9 @@ Descubrir patrones de compra, productos más rentables y tendencias temporales.
 
 ## 🗂️ Estructura
 ```
-
+data/online_retail.csv
+images/ (gráficos exportados)
+notebooks/analysis.ipynb
 ```
 
 ## 🛠️ Herramientas
